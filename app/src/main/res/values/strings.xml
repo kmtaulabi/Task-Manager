@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string-array name="kategori_tugas">
+        <item>Urgently Important (Penting Mendesak)</item>
+        <item>Not Important But Urgent (Tidak Penting Mendesak)</item>
+        <item>Important But Not Urgent (Penting Tidak Mendesak)</item>
+        <item>Not Important And Not Urgent (Tidak Penting Tidak Mendesak)</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
